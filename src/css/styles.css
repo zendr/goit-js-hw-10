@@ -33,3 +33,9 @@ height: auto;
 .country-info {
   margin-left: 35px;
 }
+
+.card-item__img {
+  width: 60px;
+  height: auto;
+  margin-right: 10px;
+}
